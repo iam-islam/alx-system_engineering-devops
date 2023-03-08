@@ -1,1 +1,1 @@
-Shell, basics projects
+system devops
