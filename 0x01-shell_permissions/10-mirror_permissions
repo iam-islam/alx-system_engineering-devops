@@ -1,1 +1,2 @@
-#!/bin/bashchomd --reference=olleh hello
+#!/bin/bash
+#chomd --reference=olleh hello
